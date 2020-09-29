@@ -1,7 +1,7 @@
 django-hordak-Noah
 =============
 
-testtest
+testedtest\
 
 **Double entry bookkeeping in Django.**
 
