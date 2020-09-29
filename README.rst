@@ -1,4 +1,4 @@
-django-hordak
+django-hordak-Noah
 =============
 
 **Double entry bookkeeping in Django.**
