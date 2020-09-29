@@ -1,8 +1,11 @@
 django-hordak-Noah
 =============
 
+<<<<<<< HEAD
 111111111111111
 4444444444444444
+=======
+>>>>>>> parent of 5b7ca53... 11111111111111
 **Double entry bookkeeping in Django.**
 
 Django Hordak provides a `simple model layer`_ for a double-entry accounting
