@@ -2,9 +2,7 @@ django-hordak-Noah
 =============
 
 111111111111111
-222222222222222
-222222222222222
-
+4444444444444444
 **Double entry bookkeeping in Django.**
 
 Django Hordak provides a `simple model layer`_ for a double-entry accounting
